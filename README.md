@@ -1,4 +1,4 @@
-## Hi, I'm Rafael Simões.👋
+## Hi, I'm @RafaelSimoes.👋
 
 <!--
 **RafaelGoncalvesSimoes/RafaelGoncalvesSimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
